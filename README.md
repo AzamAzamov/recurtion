@@ -45,8 +45,8 @@ number num * findFactorial(num - 1) until the
 base condition is met.
 
 ## 2)Closure is the combination of a function bundled together (enclosed) with references to its
-surrounding state (the lexical enviroment). In other words a closure gives you access to an
-outer functions scope from an inner function
+## surrounding state (the lexical enviroment). In other words a closure gives you access to an
+## outer functions scope from an inner function
 
 
 ## Example:
