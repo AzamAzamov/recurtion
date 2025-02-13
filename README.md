@@ -1,3 +1,4 @@
+
 # Lesson - 4
 ```
     Table of Contens
@@ -67,3 +68,4 @@ closure.
 
 # Thank you Be happy and Smila 😁!
 
+![Снимок экрана 2025-02-13 154519](https://github.com/user-attachments/assets/c0b3a3d6-2ba1-4cf4-8fc7-f14d8325f149)
